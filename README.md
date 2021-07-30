@@ -1,4 +1,7 @@
-# Data Warehouse :zap:https://github.com/Leansag/Data-Warehouse
+# Data Warehouse :zap  
+:
+https://github.com/Leansag/Data-Warehouse
+
 
 Contact manager for a Marketing company, through which customer contacts for their campaigns will be managed.
 
