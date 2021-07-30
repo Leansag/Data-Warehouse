@@ -1,5 +1,4 @@
-# Data Warehouse :zap  
-:
+# Data Warehouse :
 https://github.com/Leansag/Data-Warehouse
 
 
