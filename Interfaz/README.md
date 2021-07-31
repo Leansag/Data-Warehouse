@@ -8,4 +8,4 @@ Tool that allows a Marketing company to manage all the contacts of its clients f
 
 3. If you have completed the steps described in both README (`Data Warehouse - FRONTEND` and` Data Warehouse - BACKEND`) by first performing the backend steps and then the frontend steps, you should be ready to navigate through the contact manager Data Warehouse.
 
-4. Tip: If you want to log out or switch user, just close the navigation window and reload the page in another tab, as the identification is handled by `sessionStorage`.
+4. Tip: If you want to log out or switch user, just close the navigation window and reload the page in another tab, as the identification is handled by `sessionStorage`..
